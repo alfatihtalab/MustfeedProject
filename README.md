@@ -11,8 +11,8 @@ Two Flutter apps allow for salesman to push an offer by using trader app, where 
 
 See also:
 
-- [Live store on App Store](https://apps.apple.com/dk/app/mustfeed-app/id6448666223), which showcases of the app
-- [Live store on Google Play Store](https://play.google.com/store/apps/details?id=com.mustfeed.customer.mustfeed_customer&hl=en&gl=US), which showcases of the app
+- [Live app on App Store](https://apps.apple.com/dk/app/mustfeed-app/id6448666223), which showcases of the app
+- [Live app on Google Play Store](https://play.google.com/store/apps/details?id=com.mustfeed.customer.mustfeed_customer&hl=en&gl=US), which showcases of the app
 
 ## Key Features
 
